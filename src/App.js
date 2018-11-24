@@ -29,10 +29,10 @@ class App extends Component {
         <Header />
         <Main>
           <Text variation="large-emphasized">
-            You're about to start using Constellation
+            Stand by, Chewie, Here We Go
           </Text>
           <Heading>
-            Stand by, Chewie, Here We Go
+            You're about to start using Constellation
           </Heading>
           <Paragraph variation="intro">
             <Strong>
