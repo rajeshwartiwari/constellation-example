@@ -6,7 +6,7 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
-    "@lbg/constellation": "git+https://<YOUR GITHUB TOKEN>:x-oauth-basic@github.com/lloyds-engineering-hackathon/constellation.git"
+    "@lbg/constellation": "git+https://674ec7745fb0f61969d2c6b8185e19280fa9b16f:x-oauth-basic@github.com/lloyds-engineering-hackathon/constellation.git"
   },
   "scripts": {
     "start": "react-scripts start",
